@@ -1,33 +1,23 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# HTML, CSS: Code Refactoring
 
-# User Story
+## Description
+This project mainly focuses on improving the structure of HTML elements for better readability and accessibility standards for search engine optimization and to make the code more understandable, maintainable, and efficient without altering its functionality.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Technologies Used
 
-## Acceptance Criteria
+ * HTML
+ * CSS
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+## Screen Shots
 
-## Review
+   <img src="assets\images\screenshots\SS-SearchPage.png" alt="search page screen shot">
+   <img src="assets\images\screenshots\SS-ResultPage.png" alt="Result page screen shot">
 
-You are required to submit the following for review:
+## Link to Deployed Application
 
-* The URL of the deployed application.
+## Link to Github Repository
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+
+
+
+
