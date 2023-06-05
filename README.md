@@ -10,12 +10,20 @@ This project mainly focuses on improving the structure of HTML elements for bett
 
 ## Screen Shots
 
-   <img src="assets\images\screenshots\SS-SearchPage.png" alt="search page screen shot">
-   <img src="assets\images\screenshots\SS-ResultPage.png" alt="Result page screen shot">
+### Screen Shot1
+![ScreenShot](./assets/ScreenShots/screenshot1.png)
+
+### Screen Shot2
+![ScreenShot](./assets/ScreenShots/screenshot2.png)
+
+
+## Link to Github Repository
+
+https://github.com/saveetha17/Challenge1.git
 
 ## Link to Deployed Application
 
-## Link to Github Repository
+https://saveetha17.github.io/Challenge1/
 
 
 
